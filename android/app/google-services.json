@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997649098916",
+    "project_id": "smartpay-ad560",
+    "storage_bucket": "smartpay-ad560.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997649098916:android:5d10c9d475ca6c43a19e31",
+        "android_client_info": {
+          "package_name": "com.example.smartpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkG04NhDT87LhtgWy3_wE0iNCvHHno1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
